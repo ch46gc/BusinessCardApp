@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Kenny\'s Collision Center</string>
+    <string name="hours">Business Hours: Mon - Fri 7am - 5pm</string>
+    <string name="address">7099 Thelma Lee Drive, Alexandria, KY 41001</string>
+    <string name="phone">(859)635–1107</string>
+    <string name="description">Kenny\'s Collision Center is an auto and truck collision repair shop,
+        conveniently located just off the AA Highway  in Alexandria, KY. </string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">6dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_size_2">24sp</dimen>
+    <dimen name="padding_2">10dp</dimen>
+    <dimen name="margin">30dp</dimen>
+    <dimen name="layout_height_image">208dp</dimen>
+    <dimen name="layout_height_name">78dp</dimen>
+    <dimen name="layout_height_address">79dp</dimen>
+    <dimen name="layout_height_description">106dp</dimen>
+    <dimen name="margin_2">95dp</dimen>
+    <dimen name="marginBottom">14dp</dimen>
+    <dimen name="layout_height_hours">51dp</dimen>
+    <dimen name="layout_margin">167dp</dimen>
+    <dimen name="layout_height_address_icon">26dp</dimen>
+    <dimen name="phone_layout_height">55dp</dimen>
+    <dimen name="phone_margin">99dp</dimen>
+    <dimen name="phone_margin_top">95dp</dimen>
+    <dimen name="hours_margin_top">64dp</dimen>
+    <dimen name="name_margin_top">13dp</dimen>
+</resources>
