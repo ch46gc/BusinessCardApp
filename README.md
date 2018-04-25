@@ -1,5 +1,5 @@
 # BusinessCardApp
-Initial Commit
+
 This is a single screen app with the following 
 RelativeLayout
 1 ImageView for a photo that represents a business. Photo taken by business owner Kenny. 
