@@ -1,6 +1,6 @@
 # BusinessCardApp
-- First Project for the Android Basics Nanodegree by Google for Udacity.
-- [Android Basics by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+- This project is for the Udacity's Android Basics Nanodegree part of the Google Developer Scholarship program: 
+- [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 ## This is a single screen app with the following 
 - RelativeLayout
